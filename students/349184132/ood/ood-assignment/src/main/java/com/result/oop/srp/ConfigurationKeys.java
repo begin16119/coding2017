@@ -1,4 +1,4 @@
-package srp;
+package com.result.oop.srp;
 
 public class ConfigurationKeys {
 

@@ -1,4 +1,4 @@
-package srp;
+package com.result.oop.srp;
 import java.util.HashMap;
 import java.util.Map;
 
